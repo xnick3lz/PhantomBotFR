@@ -16,10 +16,10 @@
  */
 
 $.lang.register('top5.default', 'Top $1 $2: $3');
-$.lang.register('top5.points-disabled', 'Points are disabled.');
-$.lang.register('top5.amount.points.usage', 'Usage: !topamount (amount) - Set how many viewers will appear in the !top points list.');
-$.lang.register('top5.amount.max', 'The max amount of users is 15.');
-$.lang.register('top5.amount.points.set', '$1 users will now show in the !top command.');
-$.lang.register('top5.amount.time.usage', 'Usage: !toptimeamount (amount) - Set how many viewers will appear in the !toptime list.');
-$.lang.register('top5.amount.time.set', '$1 viwers will now show in the !toptime command.');
-$.lang.register('top5.reloadtopbots', 'Reloaded list of bots/users to ignore in top commands.');
+$.lang.register('top5.points-disabled', 'Les points sont désactivés.');
+$.lang.register('top5.amount.points.usage', 'Utilisation : !topamount (montant) - Gère combien de personnes seront visibles dans la top liste des points avec !top.');
+$.lang.register('top5.amount.max', 'Le nombre d\'utilisateurs maximum est de 15.');
+$.lang.register('top5.amount.points.set', '$1 utilisateurs seront maintenant inscrits lors de l\'utilisation de la commande !top.');
+$.lang.register('top5.amount.time.usage', 'Utilisation: !toptimeamount (montant) - Gère combien de personnes seront visibles dans la top liste des points avec !toptime.');
+$.lang.register('top5.amount.time.set', '$1 utilisateurs seront maintenant inscrits lors de l\'utilisation de la commande !toptime.');
+$.lang.register('top5.reloadtopbots', 'Liste des bots/utilisateurs à ignorer pour la toplist rechargée.');

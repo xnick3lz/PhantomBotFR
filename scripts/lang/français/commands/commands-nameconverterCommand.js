@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('namechange.default', 'Usage: !namechange [old name] [new name]');
-$.lang.register('namechange.updating', 'Updating name $1 to $2 in all the database tables. This may take time.');
-$.lang.register('namechange.success', 'Username $1 has been updated to $2 in $3 tables!');
-$.lang.register('namechange.notfound', 'Username $1 was not found in any tables.');
+$.lang.register('namechange.default', 'Utilisation: !namechange [ancien nom] [nouveau nom]');
+$.lang.register('namechange.updating', 'Mise à jour du nom depuis $1 vers $2 dans toute la base de donnée. Ceci peut prendre du temps.');
+$.lang.register('namechange.success', 'Le nom d\'utilisateur $1 a été mise à jour en $2 dans $3 tables!');
+$.lang.register('namechange.notfound', 'Le nom d\'utilisateur $1 n\'a été trouvé dans aucune table.');

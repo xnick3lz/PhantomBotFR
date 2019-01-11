@@ -15,16 +15,16 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('dualstreamcommand.usage', 'Usage: !multi [set / clear / timer / timerinterval]');
-$.lang.register('dualstreamcommand.set.usage', 'Usage: !multi set [channel(s)]');
-$.lang.register('dualstreamcommand.link.set', 'Multi link set! - http://multistre.am/$1');
-$.lang.register('dualstreamcommand.clear', 'Multi command cleared, and disabled.');
-$.lang.register('dualstreamcommand.timer.usage', 'Usage: !multi timer [on / off]');
-$.lang.register('dualstreamcommand.timer.enabled', 'Multi timer enabled.');
-$.lang.register('dualstreamcommand.timer.disabled', 'Multi timer disabled.');
-$.lang.register('dualstreamcommand.timerinterval.usage', 'Usage: !multi timerinterval (time in minutes)');
-$.lang.register('dualstreamcommand.timerinterval.err', 'Minimum for the timer is 5 minutes.');
-$.lang.register('dualstreamcommand.timerinterval.set', 'Timer interval set to $1 minutes!');
+$.lang.register('dualstreamcommand.usage', 'Utilisation: !multi [set / clear / timer / timerinterval]');
+$.lang.register('dualstreamcommand.set.usage', 'Utilisation: !multi set [chaîne(s)]');
+$.lang.register('dualstreamcommand.link.set', 'Lien Multi réglé! - http://multistre.am/$1');
+$.lang.register('dualstreamcommand.clear', 'Commande Multi réinitialisée et désactivée.');
+$.lang.register('dualstreamcommand.timer.usage', 'Utilisation: !multi timer [on / off]');
+$.lang.register('dualstreamcommand.timer.enabled', 'Timer Multi activé.');
+$.lang.register('dualstreamcommand.timer.disabled', 'Timer Multi désactivé.');
+$.lang.register('dualstreamcommand.timerinterval.usage', 'Utilisation: !multi timerinterval (temps en minutes)');
+$.lang.register('dualstreamcommand.timerinterval.err', 'Le minimum de temps d\'intervale pour le timer est de 5 minutes.');
+$.lang.register('dualstreamcommand.timerinterval.set', 'L\'intervale de temps est réglé sur $1 minutes!');
 $.lang.register('dualstreamcommand.link', 'http://multistre.am/');
-$.lang.register('dualstreamcommand.req.usage', 'Usage: !multi reqmessage (amount of messages)');
-$.lang.register('dualstreamcommand.reqmessages.set', 'Req message set to $1 messages!');
+$.lang.register('dualstreamcommand.req.usage', 'Utilisation: !multi reqmessage (nombre de messages)');
+$.lang.register('dualstreamcommand.reqmessages.set', 'Nombre de message requis réglé sur $1 messages!');

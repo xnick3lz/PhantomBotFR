@@ -15,6 +15,6 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('lastseen.404', 'I haven\'t seen $1 yet.');
-$.lang.register('lastseen.response', '$1 has last been seen on $2 @ $3');
-$.lang.register('lastseen.usage', 'Usage: !lastseen [username].');
+$.lang.register('lastseen.404', 'Je n\'ai pas encore vu $1.');
+$.lang.register('lastseen.response', '$1 a été vu la dernière fois le $2 @ $3');
+$.lang.register('lastseen.usage', 'Utilisation: !lastseen [nom d\'utilisateur].');
