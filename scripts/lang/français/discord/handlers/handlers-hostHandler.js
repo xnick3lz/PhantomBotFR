@@ -15,13 +15,13 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.hosthandler.usage', 'Usage: !hosthandler [toggle / hostmessage / autohostmessage / channel]');
-$.lang.register('discord.hosthandler.host.toggle', 'Hosts announcements have been $1.');
-$.lang.register('discord.hosthandler.host.message.usage', 'Usage: !hosthandler hostmessage [message] - Tags: (name) (viewers)');
-$.lang.register('discord.hosthandler.host.message.set', 'Host message set to: $1');
-$.lang.register('discord.hosthandler.autohost.message.usage', 'Usage: !hosthandler autohostmessage [message] - Tags: (name) (viewers)');
-$.lang.register('discord.hosthandler.autohost.message.set', 'Auto-Host message set to: $1.');
-$.lang.register('discord.hosthandler.channel.usage', 'Usage: !hosthandler channel [channel name]');
-$.lang.register('discord.hosthandler.channel.set', 'Host announcements will now be made in channel #$1');
-$.lang.register('discord.hosthandler.host.embedtitle', 'New Host!');
-$.lang.register('discord.hosthandler.auto.host.embedtitle', 'New Auto-Host!');
+$.lang.register('discord.hosthandler.usage', 'Utilisation : !hosthandler [toggle / hostmessage / autohostmessage / channel]');
+$.lang.register('discord.hosthandler.host.toggle', 'Les annonces de host sont $1.');
+$.lang.register('discord.hosthandler.host.message.usage', 'Utilisation : !hosthandler hostmessage [message] - Tags: (nom) (viewers)');
+$.lang.register('discord.hosthandler.host.message.set', 'Message de host : $1');
+$.lang.register('discord.hosthandler.autohost.message.usage', 'Utilisation: !hosthandler autohostmessage [message] - Tags: (nom) (viewers)');
+$.lang.register('discord.hosthandler.autohost.message.set', 'Message d\'auto-host : $1.');
+$.lang.register('discord.hosthandler.channel.usage', 'Utilisation: !hosthandler channel [nom du channel]');
+$.lang.register('discord.hosthandler.channel.set', 'Les annonces de host seront maintenant publiées sur le channel #$1');
+$.lang.register('discord.hosthandler.host.embedtitle', 'Nouveau Host!');
+$.lang.register('discord.hosthandler.auto.host.embedtitle', 'Nouveau Auto-Host!');

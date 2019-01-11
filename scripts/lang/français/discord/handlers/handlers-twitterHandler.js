@@ -15,8 +15,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.twitterhandler.tweet', '[Twitter Feed From]');
-$.lang.register('discord.twitterhandler.usage', 'Usage: !twitterhandler [toggle / channel]');
-$.lang.register('discord.twitterhandler.toggle', 'Twitter annoucements have been $1.');
-$.lang.register('discord.twitterhandler.channel.usage', 'Usage: !twitterhandler channel [channel name]');
-$.lang.register('discord.twitterhandler.channel.set', 'Twitter annoucements will now be made in channel #$1');
+$.lang.register('discord.twitterhandler.tweet', '[Feed Twitter de]');
+$.lang.register('discord.twitterhandler.usage', 'Utilisation : !twitterhandler [toggle / channel]');
+$.lang.register('discord.twitterhandler.toggle', 'Les annonces Twitter sont $1.');
+$.lang.register('discord.twitterhandler.channel.usage', 'Utilisation : !twitterhandler channel [nom de channel]');
+$.lang.register('discord.twitterhandler.channel.set', 'Les annonces Twitter seront publiées dans le channel #$1');

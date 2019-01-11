@@ -15,22 +15,22 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.subscribehandler.usage', 'Usage: !subscribehandler [giftsubmessage / submessage / primemessage / resubmessage / giftsubtoggle / subtoggle / primetoggle / resubtoggle / channel]');
-$.lang.register('discord.subscribehandler.sub.toggle', 'Subscriber annoucements have been $1.');
-$.lang.register('discord.subscribehandler.giftsub.toggle', 'Gifted subscriber annoucements have been $1.');
-$.lang.register('discord.subscribehandler.prime.toggle', 'Twitch Prime subscriber annoucements have been $1.');
-$.lang.register('discord.subscribehandler.resub.toggle', 'Re-subscriber annoucements have been $1.');
-$.lang.register('discord.subscribehandler.sub.message.usage', 'Usage: !subscribehandler submessage [message] - Tag: (name)');
-$.lang.register('discord.subscribehandler.sub.message.set', 'Subscriber annoucement message set to: $1');
-$.lang.register('discord.subscribehandler.giftsub.message.usage', 'Usage: !subscribehandler giftsubmessage [message] - Tag: (name)');
-$.lang.register('discord.subscribehandler.giftsub.message.set', 'Gifted subscriber annoucement message set to: $1');
-$.lang.register('discord.subscribehandler.prime.sub.message.usage', 'Usage: !subscribehandler primemessage [message] - Tag: (name)');
-$.lang.register('discord.subscribehandler.prime.sub.message.set', 'Twitch Prime subscriber annoucement message set to: $1');
-$.lang.register('discord.subscribehandler.resub.message.usage', 'Usage: !subscribehandler resubmessage [message] - Tags: (name) (months)');
-$.lang.register('discord.subscribehandler.resub.message.set', 'Re-subscriber annoucement message set to: $1');
-$.lang.register('discord.subscribehandler.channel.usage', 'Usage: !subscribehandler channel [channel name]');
-$.lang.register('discord.subscribehandler.channel.set', 'Subscriber annoucements will now be made in channel #$1');
-$.lang.register('discord.subscribehandler.resubscriber.embedtitle', 'New Resubscriber!');
-$.lang.register('discord.subscribehandler.subscriber.embedtitle', 'New Subscriber!');
-$.lang.register('discord.subscribehandler.giftsubscriber.embedtitle', 'New Gifted Subscription!');
-$.lang.register('discord.subscribehandler.primesubscriber.embedtitle', 'New Prime Subscriber!');
+$.lang.register('discord.subscribehandler.usage', 'Utilisation : !subscribehandler [giftsubmessage / submessage / primemessage / resubmessage / giftsubtoggle / subtoggle / primetoggle / resubtoggle / channel]');
+$.lang.register('discord.subscribehandler.sub.toggle', 'Les annonces d\'abonnement sont $1.');
+$.lang.register('discord.subscribehandler.giftsub.toggle', 'Les annonces de don d\'abonnement sont $1.');
+$.lang.register('discord.subscribehandler.prime.toggle', 'Les annonces d\'abonnement Twitch Prime sont $1.');
+$.lang.register('discord.subscribehandler.resub.toggle', 'Les annonces de resub sont $1.');
+$.lang.register('discord.subscribehandler.sub.message.usage', 'Utilisation : !subscribehandler submessage [message] - Tag: (nom)');
+$.lang.register('discord.subscribehandler.sub.message.set', 'Message d\'annonce d\'abonnement : $1');
+$.lang.register('discord.subscribehandler.giftsub.message.usage', 'Utilisation : !subscribehandler giftsubmessage [message] - Tag: (nom)');
+$.lang.register('discord.subscribehandler.giftsub.message.set', 'Message d\'annonce de don d\'abonnement : $1');
+$.lang.register('discord.subscribehandler.prime.sub.message.usage', 'Utilisation: !subscribehandler primemessage [message] - Tag: (nom)');
+$.lang.register('discord.subscribehandler.prime.sub.message.set', 'Message d\'annonce d\'abonnement Twitch Prime : $1');
+$.lang.register('discord.subscribehandler.resub.message.usage', 'Utilisation : !subscribehandler resubmessage [message] - Tags: (nom) (mois)');
+$.lang.register('discord.subscribehandler.resub.message.set', 'Message d\'annonce de resub : $1');
+$.lang.register('discord.subscribehandler.channel.usage', 'Utilisation: !subscribehandler channel [nom du channel]');
+$.lang.register('discord.subscribehandler.channel.set', 'Les messages d\'annonce d\'abonnement seront publiés sur le channel #$1');
+$.lang.register('discord.subscribehandler.resubscriber.embedtitle', 'Nouveau resub!');
+$.lang.register('discord.subscribehandler.subscriber.embedtitle', 'Nouveau sub!');
+$.lang.register('discord.subscribehandler.giftsubscriber.embedtitle', 'Nouveau sub offert!');
+$.lang.register('discord.subscribehandler.primesubscriber.embedtitle', 'Nouveau sub prime!');

@@ -15,11 +15,11 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.bitshandler.usage', 'Usage: !bitshandler [toggle / message / channel]');
-$.lang.register('discord.bitshandler.bits.toggle', 'Bit announcements have been $1.');
-$.lang.register('discord.bitshandler.bits.message.usage', 'Usage: !bitshandler message [message] - Tags: (name) (amount)');
-$.lang.register('discord.bitshandler.bits.message.set', 'Bits announcements message set to: $1');
-$.lang.register('discord.bitshandler.bits.channel.usage', 'Usage: !bitshandler channel [channel name]');
-$.lang.register('discord.bitshandler.bits.channel.set', 'Bit announcements will now be made in channel #$1');
-$.lang.register('discord.bitshandler.bits.embed.title', 'New Cheer!');
+$.lang.register('discord.bitshandler.usage', 'Utilisation : !bitshandler [toggle / message / channel]');
+$.lang.register('discord.bitshandler.bits.toggle', 'Les annonces de Bits sont $1.');
+$.lang.register('discord.bitshandler.bits.message.usage', 'Utilisation : !bitshandler message [message] - Tags: (nom) (montant)');
+$.lang.register('discord.bitshandler.bits.message.set', 'Message d\'annonce des Bits réglé sur : $1');
+$.lang.register('discord.bitshandler.bits.channel.usage', 'Utilisation : !bitshandler channel [nom du channel]');
+$.lang.register('discord.bitshandler.bits.channel.set', 'Les annonces de Bits seront désormais faites dans le channel #$1');
+$.lang.register('discord.bitshandler.bits.embed.title', 'Nouveau cheer!');
 $.lang.register('discord.bitshandler.bits.embed.messagetitle', 'Message:');

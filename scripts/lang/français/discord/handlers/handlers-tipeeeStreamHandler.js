@@ -15,10 +15,10 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.tipeeestreamhandler.usage', 'Usage: !tipeeestreamhandler [toggle / message / channel]');
-$.lang.register('discord.tipeeestreamhandler.toggle', 'TipeeeStream donation announcements have been $1.');
-$.lang.register('discord.tipeeestreamhandler.message.usage', 'Usage: !tipeeestreamhandler message [message] - Tags: (name) (amount) (currency) (formattedamount) (message)');
-$.lang.register('discord.tipeeestreamhandler.message.set', 'TipeeeStream donation message set to: $1');
-$.lang.register('discord.tipeeestreamhandler.channel.usage', 'Usage: !tipeeestreamhandler channel [channel name]');
-$.lang.register('discord.tipeeestreamhandler.channel.set', 'TipeeeStream donation announcements will now be made in channel #$1');
-$.lang.register('discord.tipeeestreamhandler.embed.title', 'New Tip!');
+$.lang.register('discord.tipeeestreamhandler.usage', 'Utilisation : !tipeeestreamhandler [toggle / message / channel]');
+$.lang.register('discord.tipeeestreamhandler.toggle', 'Les annonces de don TipeeeStream sont $1.');
+$.lang.register('discord.tipeeestreamhandler.message.usage', 'Utilisation : !tipeeestreamhandler message [message] - Tags: (nom) (montant) (devise) (montantformaté) (message)');
+$.lang.register('discord.tipeeestreamhandler.message.set', 'Message de don TipeeeStream : $1');
+$.lang.register('discord.tipeeestreamhandler.channel.usage', 'Utilisation : !tipeeestreamhandler channel [nom du channel]');
+$.lang.register('discord.tipeeestreamhandler.channel.set', 'Les annonces de don TipeeeStream seront publiées dans le channel #$1');
+$.lang.register('discord.tipeeestreamhandler.embed.title', 'Nouveau don!');

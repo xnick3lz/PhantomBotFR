@@ -15,18 +15,18 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.gamewisphandler.usage', 'Usage: !gamewisphandler [subtoggle / resubtoggle / tieruptoggle / submessage / resubmessage / tierupmessage]');
-$.lang.register('discord.gamewisphandler.sub.toggle', 'GameWisp subscriber announcements have been $1.');
-$.lang.register('discord.gamewisphandler.resub.toggle', 'GameWisp re-subscriber announcements have been $1.');
-$.lang.register('discord.gamewisphandler.tier.toggle', 'GameWisp tier-up annoucements have been $1.');
-$.lang.register('discord.gamewisphandler.sub.message.usage', 'Usage: !gamewisphandler submessage [message] - Tags: (name) (tier)');
-$.lang.register('discord.gamewisphandler.sub.message.set', 'GameWisp subscriber annoucement message set to: $1');
-$.lang.register('discord.gamewisphandler.resub.message.usage', 'Usage: !gamewisphandler resubmessage [message] - Tags: (name) (tier) (months)');
-$.lang.register('discord.gamewisphandler.resub.message.set', 'GameWisp re-subscriber annoucement message set to: $1');
-$.lang.register('discord.gamewisphandler.tier.message.usage', 'Usage: !gamewisphandler tierupmessage [message] - Tags: (name) (tier)');
-$.lang.register('discord.gamewisphandler.tier.message.set', 'GameWisp tier-up annoucement message set to: $1');
-$.lang.register('discord.gamewisphandler.channel.usage', 'Usage: !gamewisphandler channel [channel name]');
-$.lang.register('discord.gamewisphandler.channel.set', 'GameWisp announcements will now be made in channel #$1');
-$.lang.register('discord.gamewisphandler.resub.embedtitle', '$1 has resubscribed via GameWisp!');
-$.lang.register('discord.gamewisphandler.sub.embedtitle', '$1 has subscribed via GameWisp!');
-$.lang.register('discord.gamewisphandler.tier.embedtitle', '$1 upgraded their tier on GameWisp!');
+$.lang.register('discord.gamewisphandler.usage', 'Utilisation : !gamewisphandler [subtoggle / resubtoggle / tieruptoggle / submessage / resubmessage / tierupmessage]');
+$.lang.register('discord.gamewisphandler.sub.toggle', 'Les annonces de sub GameWisp sont $1.');
+$.lang.register('discord.gamewisphandler.resub.toggle', 'Les annonces de resub Gamewisp sont $1.');
+$.lang.register('discord.gamewisphandler.tier.toggle', 'Les annonces de sub tier Gamewisp sont $1.');
+$.lang.register('discord.gamewisphandler.sub.message.usage', 'Utilisation : !gamewisphandler submessage [message] - Tags: (nom) (tier)');
+$.lang.register('discord.gamewisphandler.sub.message.set', 'Le message d\'annonce de sub Gamewisp est : $1');
+$.lang.register('discord.gamewisphandler.resub.message.usage', 'Usage: !gamewisphandler resubmessage [message] - Tags: (nom) (tier) (mois)');
+$.lang.register('discord.gamewisphandler.resub.message.set', 'Le message d\'annonce de resub Gamewisp est : $1');
+$.lang.register('discord.gamewisphandler.tier.message.usage', 'Utilisation : !gamewisphandler tierupmessage [message] - Tags: (nom) (tier)');
+$.lang.register('discord.gamewisphandler.tier.message.set', 'Le message d\'annonce de sub tier Gamewisp est : $1');
+$.lang.register('discord.gamewisphandler.channel.usage', 'Utilisation : !gamewisphandler channel [nom du channel]');
+$.lang.register('discord.gamewisphandler.channel.set', 'Les annonces GameWisp seront maintenant faites dans le channel #$1');
+$.lang.register('discord.gamewisphandler.resub.embedtitle', '$1 s\'est resub via GameWisp!');
+$.lang.register('discord.gamewisphandler.sub.embedtitle', '$1 s\'est sub via GameWisp!');
+$.lang.register('discord.gamewisphandler.tier.embedtitle', '$1 a augmenté son tier sur GameWisp!');

@@ -15,10 +15,10 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.followhandler.usage', 'Usage: !followhandler [toggle / message / channel]');
-$.lang.register('discord.followhandler.follow.toggle', 'Follow announcements have been $1.');
-$.lang.register('discord.followhandler.follow.message.usage', 'Usage: !followhandler message [message] - Tag: (name)');
-$.lang.register('discord.followhandler.follow.message.set', 'Follow announcements message set to: $1');
-$.lang.register('discord.followhandler.follow.channel.usage', 'Usage: !followhandler channel [channel name]');
-$.lang.register('discord.followhandler.follow.channel.set', 'Follow announcements will now be made in channel #$1');
-$.lang.register('discord.followhandler.follow.embedtitle', 'New Follower!');
+$.lang.register('discord.followhandler.usage', 'Utilisation : !followhandler [toggle / message / channel]');
+$.lang.register('discord.followhandler.follow.toggle', 'Les annonces de follow sont $1.');
+$.lang.register('discord.followhandler.follow.message.usage', 'Utilisation: !followhandler message [message] - Tag: (nom)');
+$.lang.register('discord.followhandler.follow.message.set', 'Annonces de follow réglées sur : $1');
+$.lang.register('discord.followhandler.follow.channel.usage', 'Utilisation : !followhandler channel [nom du channel]');
+$.lang.register('discord.followhandler.follow.channel.set', 'Les annonces de follow seront maintenant faites sur le channel #$1');
+$.lang.register('discord.followhandler.follow.embedtitle', 'Nouveau follower!');

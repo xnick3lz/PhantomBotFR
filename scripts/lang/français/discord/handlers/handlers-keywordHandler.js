@@ -15,12 +15,12 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.keywordhandler.usage', 'Usage: !keyword [add / edit / remove]');
-$.lang.register('discord.keywordhandler.add.usage', 'Usage: !keyword add [keyword] [response]');
-$.lang.register('discord.keywordhandler.add.error', 'That keyword already exists.');
-$.lang.register('discord.keywordhandler.add.success', 'Keyword: "$1" has been added!');
-$.lang.register('discord.keywordhandler.edit.usage', 'Usage: !keyword edit [keyword] [response]');
-$.lang.register('discord.keywordhandler.404', 'That keyword does not exist.');
-$.lang.register('discord.keywordhandler.edit.success', 'Keyword: "$1" has been edited!');
-$.lang.register('discord.keywordhandler.remove.usage', 'Usage: !keyword remove [keyword]');
-$.lang.register('discord.keywordhandler.remove.success', 'Keyword: "$1" has been removed!');
+$.lang.register('discord.keywordhandler.usage', 'Utilisation : !keyword [add / edit / remove]');
+$.lang.register('discord.keywordhandler.add.usage', 'Utilisation : !keyword add [mot clé] [réponse]');
+$.lang.register('discord.keywordhandler.add.error', 'Ce mot clé existe déjà.');
+$.lang.register('discord.keywordhandler.add.success', 'Le mot clé : "$1" a été ajouté!');
+$.lang.register('discord.keywordhandler.edit.usage', 'Utilisation : !keyword edit [mot clé] [réponse]');
+$.lang.register('discord.keywordhandler.404', 'Ce mot clé n\'existe pas.');
+$.lang.register('discord.keywordhandler.edit.success', 'Le mot clé : "$1" a été édité!');
+$.lang.register('discord.keywordhandler.remove.usage', 'Utilisation : !keyword remove [mot clé]');
+$.lang.register('discord.keywordhandler.remove.success', 'Le mot clé : "$1" a été supprimé!');

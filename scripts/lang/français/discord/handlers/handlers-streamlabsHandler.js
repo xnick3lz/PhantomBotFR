@@ -15,10 +15,10 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.streamlabshandler.usage', 'Usage: !streamlabshandler [toggle / message / channel]');
-$.lang.register('discord.streamlabshandler.toggle', 'StreamLabs donation announcements have been $1.');
-$.lang.register('discord.streamlabshandler.message.usage', 'Usage: !streamlabshandler message [message] - Tags: (name) (amount) (currency) (message)');
-$.lang.register('discord.streamlabshandler.message.set', 'StreamLabs donation message set to: $1');
-$.lang.register('discord.streamlabshandler.channel.usage', 'Usage: !streamlabshandler channel [channel name]');
-$.lang.register('discord.streamlabshandler.channel.set', 'StreamLabs donation annoucements will now be made in channel #$1');
-$.lang.register('discord.streamlabshandler.embed.title', 'New Tip!');
+$.lang.register('discord.streamlabshandler.usage', 'Utilisation : !streamlabshandler [toggle / message / channel]');
+$.lang.register('discord.streamlabshandler.toggle', 'Les annonces de don StreamLabs sont $1.');
+$.lang.register('discord.streamlabshandler.message.usage', 'Utilisation : !streamlabshandler message [message] - Tags: (nom) (montant) (devise) (message)');
+$.lang.register('discord.streamlabshandler.message.set', 'Le message de donation StreamLabs est : $1');
+$.lang.register('discord.streamlabshandler.channel.usage', 'Utilisation : !streamlabshandler channel [nom du channel]');
+$.lang.register('discord.streamlabshandler.channel.set', 'Les annonces de donation StreamLabs seront publiées dans le channel #$1');
+$.lang.register('discord.streamlabshandler.embed.title', 'Nouveau don!');

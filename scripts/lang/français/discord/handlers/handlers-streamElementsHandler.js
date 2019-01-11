@@ -15,10 +15,10 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.streamelementshandler.usage', 'Usage: !streamelementshandler [toggle / message / channel]');
-$.lang.register('discord.streamelementshandler.toggle', 'StreamElements donation announcements have been $1.');
-$.lang.register('discord.streamelementshandler.message.usage', 'Usage: !streamelementshandler message [message] - Tags: (name) (amount) (currency) (message)');
-$.lang.register('discord.streamelementshandler.message.set', 'StreamElements donation message set to: $1');
-$.lang.register('discord.streamelementshandler.channel.usage', 'Usage: !streamelementshandler channel [channel name]');
-$.lang.register('discord.streamelementshandler.channel.set', 'StreamElements donation annoucements will now be made in channel #$1');
-$.lang.register('discord.streamelementshandler.embed.title', 'New Tip!');
+$.lang.register('discord.streamelementshandler.usage', 'Utilisation : !streamelementshandler [toggle / message / channel]');
+$.lang.register('discord.streamelementshandler.toggle', 'Les annonces de don StreamElements sont $1.');
+$.lang.register('discord.streamelementshandler.message.usage', 'Utilisation: !streamelementshandler message [message] - Tags: (nom) (montant) (devise) (message)');
+$.lang.register('discord.streamelementshandler.message.set', 'Message de donnation StreamElements : $1');
+$.lang.register('discord.streamelementshandler.channel.usage', 'Utilisation : !streamelementshandler channel [Nom du channel]');
+$.lang.register('discord.streamelementshandler.channel.set', 'Les annonces de don StreamElements seront faites dans le channel #$1');
+$.lang.register('discord.streamelementshandler.embed.title', 'Nouveau don!');

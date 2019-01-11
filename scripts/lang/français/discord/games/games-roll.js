@@ -15,12 +15,12 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.roll.rolled', '$1 rolls a [$2] and [$3]. ');
-$.lang.register('discord.roll.doubleone', 'Snake eyes for $1! ');
-$.lang.register('discord.roll.doubletwo', 'Hard four for $1! ');
-$.lang.register('discord.roll.doublethree', 'Hard six for $1! ');
-$.lang.register('discord.roll.doublefour', 'Hard eight for $1! ');
-$.lang.register('discord.roll.doublefive', 'Hard ten for $1! ');
-$.lang.register('discord.roll.doublesix', 'Boxcars to the max!!! $1! ');
-$.lang.register('discord.roll.rewards.usage', 'Usage: !roll rewards [double 1\'s] [2\'s] [3\'s] [4\'s] [5\'s] [6\'s]. Currently: $1');
-$.lang.register('discord.roll.rewards.success', 'Updated rewards for the dice roll.');
+$.lang.register('discord.roll.rolled', '$1 lance un [$2] et un [$3]. ');
+$.lang.register('discord.roll.doubleone', 'Un double un pour $1! ');
+$.lang.register('discord.roll.doubletwo', 'Un bon double 2 pour $1! ');
+$.lang.register('discord.roll.doublethree', 'Un solide double 3 pour $1! ');
+$.lang.register('discord.roll.doublefour', 'Un excellent double 4 pour $1! ');
+$.lang.register('discord.roll.doublefive', 'Un incroyable double 5 pour $1! ');
+$.lang.register('discord.roll.doublesix', 'Et c\'est un lancé parfait!!! $1! ');
+$.lang.register('discord.roll.rewards.usage', 'Utilisation : !roll rewards [double 1] [2] [3] [4] [5] [6]. Actuellement : $1');
+$.lang.register('discord.roll.rewards.success', 'Récompenses mises à jour pour le jeté de dé.');

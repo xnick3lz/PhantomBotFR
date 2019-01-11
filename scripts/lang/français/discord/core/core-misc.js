@@ -15,14 +15,14 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-$.lang.register('discord.misc.module.usage', 'Usage: !module [enable / disable / list]');
-$.lang.register('discord.misc.module.enabled', 'Module: $1 has been enabled.');
-$.lang.register('discord.misc.module.disabled', 'Module: $1 has been disabled.');
-$.lang.register('discord.misc.module.list', 'Discord Module list: \r\n $1');
-$.lang.register('discord.misc.module.404', 'That module does not exist: $1');
-$.lang.register('discord.misc.game.set.usage', 'Usage: !setgame [game name]');
-$.lang.register('discord.misc.game.set', 'Bot game updated to: $1');
-$.lang.register('discord.misc.game.stream.set.usage', 'Usage: !setstream [twitch url] [game name]');
-$.lang.register('discord.misc.game.stream.set', 'Bot stream changed to: $1 and game to: $2');
-$.lang.register('discord.misc.game.removed', 'Bot game has been removed.');
-$.lang.register('discord.misc.reconnect', 'A Discord reconnect is being attempted.');
+$.lang.register('discord.misc.module.usage', 'Utilisation : !module [enable / disable / list]');
+$.lang.register('discord.misc.module.enabled', 'Le module : $1 a été activé.');
+$.lang.register('discord.misc.module.disabled', 'Le module: $1 a été désactivé.');
+$.lang.register('discord.misc.module.list', 'Liste des modules discord: \r\n $1');
+$.lang.register('discord.misc.module.404', 'Ce module n\'existe pas: $1');
+$.lang.register('discord.misc.game.set.usage', 'Utilisation : !setgame [nom du jeu]');
+$.lang.register('discord.misc.game.set', 'Jeu du bot mis à jour sur : $1');
+$.lang.register('discord.misc.game.stream.set.usage', 'Utilisation : !setstream [URL Twitch] [nom du jeu]');
+$.lang.register('discord.misc.game.stream.set', 'Stream du bot changé sur : $1 et jeu sur : $2');
+$.lang.register('discord.misc.game.removed', 'Le jeu du bot a été supprimé.');
+$.lang.register('discord.misc.reconnect', 'Tentative de reconnection au serveur Discord.');
